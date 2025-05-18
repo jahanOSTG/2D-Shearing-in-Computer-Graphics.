@@ -68,3 +68,12 @@
 
 ## Output Visualization: Shearing:
  <image src="s_output.png" height="500" weight="300">
+
+ ---
+## Required Tools:
+
+- **Dev-C++ IDE**
+- **WinBGIm Graphics Library** (included with or added to Dev-C++)
+- **C++ Compiler** (such as TDM-GCC that comes with Dev-C++)
+- **Windows Operating System** (Graphics.h is platform-specific)
+
