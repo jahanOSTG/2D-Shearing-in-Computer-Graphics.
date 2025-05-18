@@ -22,6 +22,7 @@
   - `Y_new = Y_old`
 
 - Matrix form:
+ <image src="s1.png" height="300" weight="300">
 
 
 ---
@@ -34,7 +35,7 @@
 
 - Matrix form:
 
-
+ <image src="s2.png" height="300" weight="300">
 ---
 
 ## Algorithm Steps
@@ -62,3 +63,8 @@
 - Shearing factors control the amount of slant.
 - If `Shx` or `Shy` is zero, there is no shearing along that axis.
 - The transformation preserves area but changes shape.
+  
+---
+
+## Output Visualization: Shearing:
+ <image src="s_output.png" height="500" weight="300">
